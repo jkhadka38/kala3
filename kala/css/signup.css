@@ -1,0 +1,26 @@
+main {
+  height: 85vh;
+  background: url(../images/11.jpeg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: sticky;
+  top: 0;
+}
+
+.signup-container {
+  height: 50vh;
+  width: 30vw;
+  background: var(--orange);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.copyright {
+  text-align: center;
+  margin-top: 0px;
+  font-size: 10px;
+  width: 100%;
+}
